@@ -45,29 +45,6 @@
 
 <br/>
 
-<!-- About — dart code block -->
-```dart
-/// Senior Flutter Developer · Sahiwal, Pakistan 🇵🇰
-/// Founder @ K-Tonix Solutions
-
-class AhadNaveed {
-  static const String role    = "Senior Flutter Developer";
-  static const String company = "Duseca Software";
-  static const String venture = "K-Tonix Solutions — Founder & Lead Engineer";
-
-  static const int yearsExp   = 4;
-  static const int appsBuilt  = 300; // and counting...
-
-  static const List<String> industries = [
-    "Fintech 💳", "Healthcare 🏥",
-    "Logistics 🚚", "E-Commerce 🛒",
-  ];
-
-  // A foreign client flew to Pakistan just to
-  // appreciate the quality of my work. 🌍✈️
-  static const String motto = "Quality over everything.";
-}
-```
 
 <br/>
 
